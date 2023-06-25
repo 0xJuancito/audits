@@ -27,6 +27,7 @@
 | Polynomial | High | Code4rena | [Report TBA](https://code4rena.com/contests/2023-03-polynomial-protocol-contest#top) | |
 | Polynomial | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-03-polynomial-protocol-contest#top) | |
 | Polynomial | QA | Code4rena | [Report TBA](https://code4rena.com/contests/2023-03-polynomial-protocol-contest#top) | |
+| Gravita | Low | Hats | [Out of gas in collectFees](https://github.com/Gravita-Protocol/Gravita-SmartContracts/issues/222) | |
 | Contest 225 | High | Code4rena | [Report TBA](https://code4rena.com/contests/2023-03-contest-225-contest) | |
 | Contest 225 | High | Code4rena | [Report TBA](https://code4rena.com/contests/2023-03-contest-225-contest) | |
 | Contest 225 | High | Code4rena | [Report TBA](https://code4rena.com/contests/2023-03-contest-225-contest) | |
