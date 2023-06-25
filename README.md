@@ -1,5 +1,7 @@
 # Smart Contracts Audits and Findings by juancito
 
+## Audit Competitions
+
 | Project | Severity | Contest | Finding | Notes |
 | --- | --- | --- | --- | --- |
 | Stader Labs | | Code4rena | [Judging TBA](https://code4rena.com/contests/2023-06-stader-labs#top) | |
