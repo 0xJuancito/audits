@@ -8,6 +8,7 @@
 | EigenLayer | QA | Code4rena | [Report TBA](https://code4rena.com/contests/2023-04-eigenlayer-contest#top) | |
 | Rubicon v2 | High | Code4rena | [Report TBA](https://code4rena.com/contests/2023-04-rubicon-v2#top) | |
 | Rubicon v2 | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-04-rubicon-v2#top) | |
+| Rubicon v2 | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-04-rubicon-v2#top) | |
 | Ajna | High | Code4rena | [Report TBA](https://code4rena.com/contests/2023-05-ajna-protocol#top) | |
 | Ajna | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-05-ajna-protocol#top) | |
 | Footium | Medium | Sherlock | [Some ERC20 tokens can get permanently stuck in the contract due to use of `transfer()`](https://github.com/sherlock-audit/2023-04-footium-judging/issues/252) | |
