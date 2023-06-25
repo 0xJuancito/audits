@@ -9,6 +9,7 @@
 | Teller | High | Sherlock | [Borrowers can steal lenders principal without providing collateral by frontrunning `lenderAcceptBid` and updating the bid](https://github.com/sherlock-audit/2023-03-teller-judging/issues/250) | |
 | Teller | High | Sherlock | [Adversary can modify the commited collateral of any bid at any time leading to lost or locked assets and DOS of the protocol](https://github.com/sherlock-audit/2023-03-teller-judging/issues/280) | |
 | Teller | Medium | Sherlock | [Marketplaces owners can frontrun `submitBid` to steal collateral by modifying market parameters](https://github.com/sherlock-audit/2023-03-teller-judging/issues/289) | |
+| Caviar Private Pools | Medium | Code4rena | [Adversary can prevent the creation of any private pools by frontrunning the deployer](https://github.com/code-423n4/2023-04-caviar-findings/issues/567) | |
 | Asymmetry | High | Code4rena | [Report TBA](https://code4rena.com/contests/2023-03-asymmetry-contest) | |
 | Asymmetry | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-03-asymmetry-contest) | |
 | Asymmetry | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-03-asymmetry-contest) | |
