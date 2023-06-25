@@ -1,6 +1,6 @@
 # Smart Contracts Audits and Findings by juancito
 
-| Project | Severity | Contest | Report | Notes |
+| Project | Severity | Contest | Finding | Notes |
 | --- | --- | --- | --- | --- |
 | USSD | | Sherlock | | TBA |
 | Footium | Medium | Sherlock | [Some ERC20 tokens can get permanently stuck in the contract due to use of `transfer()`](https://github.com/sherlock-audit/2023-04-footium-judging/issues/252) | |
