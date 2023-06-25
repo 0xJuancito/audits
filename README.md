@@ -3,6 +3,8 @@
 | Project | Severity | Contest | Finding | Notes |
 | --- | --- | --- | --- | --- |
 | USSD | | Sherlock | [Judging TBA](https://app.sherlock.xyz/audits/contests/82) | |
+| Ajna | High | Code4rena | [Report TBA](https://code4rena.com/contests/2023-05-ajna-protocol#top) | |
+| Ajna | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-05-ajna-protocol#top) | |
 | Footium | Medium | Sherlock | [Some ERC20 tokens can get permanently stuck in the contract due to use of `transfer()`](https://github.com/sherlock-audit/2023-04-footium-judging/issues/252) | |
 | Footium | Medium | Sherlock | [Increasing _`maxGenerationId` allows extra minting of academy players on previous seasons](https://github.com/sherlock-audit/2023-04-footium-judging/issues/277) | |
 | Footium | Medium | Sherlock | [One extra academy player can be minted per season due to mischeck in `mintPlayers`](https://github.com/sherlock-audit/2023-04-footium-judging/issues/273) | |
