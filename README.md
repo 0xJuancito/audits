@@ -2,6 +2,7 @@
 
 | Project | Severity | Contest | Finding | Notes |
 | --- | --- | --- | --- | --- |
+| Stader Labs | | Code4rena | [Judging TBA](https://code4rena.com/contests/2023-06-stader-labs#top) | |
 | USSD | | Sherlock | [Judging TBA](https://app.sherlock.xyz/audits/contests/82) | |
 | EigenLayer | High | Code4rena | [Report TBA](https://code4rena.com/contests/2023-04-eigenlayer-contest#top) | |
 | EigenLayer | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-04-eigenlayer-contest#top) | |
