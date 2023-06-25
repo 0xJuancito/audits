@@ -6,6 +6,13 @@
 | Footium | Medium | Sherlock | [Some ERC20 tokens can get permanently stuck in the contract due to use of `transfer()`](https://github.com/sherlock-audit/2023-04-footium-judging/issues/252) | |
 | Footium | Medium | Sherlock | [Increasing _`maxGenerationId` allows extra minting of academy players on previous seasons](https://github.com/sherlock-audit/2023-04-footium-judging/issues/277) | |
 | Footium | Medium | Sherlock | [One extra academy player can be minted per season due to mischeck in `mintPlayers`](https://github.com/sherlock-audit/2023-04-footium-judging/issues/273) | |
+| Frankencoin | High | Code4rena | [Position owners can perform a sandwich attack against challengers to steal their collateral](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/572) | |
+| Frankencoin | High | Code4rena | [Lack of validation in opening positions parameters can lead to critical vulnerabilities at protocol level](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/954) | |
+| Frankencoin | High | Code4rena | [Adjusting position prices can lead to unavertable challenges that the protocol will have to pay for](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/566) | Duplicate |
+| Frankencoin | High | Code4rena | [Fresh positions can be instantly challenged leading to unrestricted minting of ZCHF tokens](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/309) | Duplicate |
+| Frankencoin | Medium | Code4rena | [`restructureCapTable()` only wipes out the first address on the list](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/989) | |
+| Frankencoin | Medium | Code4rena | [No way to transfer minter role or rennounce to it](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/990) | |
+| Frankencoin | QA | Code4rena | [QA Report](https://github.com/code-423n4/2023-04-frankencoin-findings/blob/main/data/juancito-Q.md) | [📝 Selected for Report](https://code4rena.com/reports/2023-04-frankencoin#low-risk-and-non-critical-issues) |
 | Polynomial | High | Code4rena | [Report TBA](https://code4rena.com/contests/2023-03-polynomial-protocol-contest#top) | |
 | Polynomial | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-03-polynomial-protocol-contest#top) | |
 | Polynomial | QA | Code4rena | [Report TBA](https://code4rena.com/contests/2023-03-polynomial-protocol-contest#top) | |
@@ -26,7 +33,7 @@
 | Asymmetry | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-03-asymmetry-contest) | |
 | Asymmetry | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-03-asymmetry-contest) | |
 | Asymmetry | QA | Code4rena | [Report TBA](https://code4rena.com/contests/2023-03-asymmetry-contest) | |
-| Canto Identity Subprotocols | Medium | Code4rena | [Users can end up buying and paying for a different Tray than the one they were trying to acquire](https://github.com/code-423n4/2023-03-canto-identity-findings/issues/130) | 📝 [Selected for report](https://code4rena.com/reports/2023-03-canto-identity#m-07-users-can-end-up-buying-and-paying-for-a-different-tray-than-the-one-they-were-trying-to-acquire) |
+| Canto Identity Subprotocols | Medium | Code4rena | [Users can end up buying and paying for a different Tray than the one they were trying to acquire](https://github.com/code-423n4/2023-03-canto-identity-findings/issues/130) | [📝 Selected for report](https://code4rena.com/reports/2023-03-canto-identity#m-07-users-can-end-up-buying-and-paying-for-a-different-tray-than-the-one-they-were-trying-to-acquire) |
 | Neo Tokyo | High | Code4rena | [A malicious user can mint a huge amount of BYTES 2.0 tokens for himself](https://github.com/code-423n4/2023-03-neotokyo-findings/issues/366) | |
 | Neo Tokyo | High | Code4rena | [Malicious users can claim BYTES rewards after withdrawing all of their LP stake](https://github.com/code-423n4/2023-03-neotokyo-findings/issues/374) | Duplicate |
 | Wenwin | QA | Code4rena | [QA Report](https://github.com/code-423n4/2023-03-wenwin-findings/blob/main/data/juancito-Q.md) | |
