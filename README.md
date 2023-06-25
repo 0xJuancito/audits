@@ -1,4 +1,4 @@
-# Juancito Smart Contract Audits
+# Smart Contracts Audits and Findings by juancito
 
 | Project | Severity | Contest | Finding | Notes |
 | --- | --- | --- | --- | --- |
