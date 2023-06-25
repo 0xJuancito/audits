@@ -3,6 +3,9 @@
 | Project | Severity | Contest | Finding | Notes |
 | --- | --- | --- | --- | --- |
 | USSD | | Sherlock | [Judging TBA](https://app.sherlock.xyz/audits/contests/82) | |
+| EigenLayer | High | Code4rena | [Report TBA](https://code4rena.com/contests/2023-04-eigenlayer-contest#top) | |
+| EigenLayer | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-04-eigenlayer-contest#top) | |
+| EigenLayer | QA | Code4rena | [Report TBA](https://code4rena.com/contests/2023-04-eigenlayer-contest#top) | |
 | Ajna | High | Code4rena | [Report TBA](https://code4rena.com/contests/2023-05-ajna-protocol#top) | |
 | Ajna | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-05-ajna-protocol#top) | |
 | Footium | Medium | Sherlock | [Some ERC20 tokens can get permanently stuck in the contract due to use of `transfer()`](https://github.com/sherlock-audit/2023-04-footium-judging/issues/252) | |
