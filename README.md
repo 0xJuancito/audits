@@ -1,4 +1,4 @@
-# Smart Contracts Audits and Findings by juancito
+# Smart Contract Audits and Findings by juancito
 
 ## Audit Competitions
 
