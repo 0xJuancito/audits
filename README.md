@@ -6,9 +6,6 @@ Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security 
 
 | Project | Severity | Contest | Finding | Notes |
 | --- | --- | --- | --- | --- |
-| Footium | Medium | Sherlock | [Some ERC20 tokens can get permanently stuck in the contract due to use of `transfer()`](https://github.com/sherlock-audit/2023-04-footium-judging/issues/252) | |
-| Footium | Medium | Sherlock | [Increasing _`maxGenerationId` allows extra minting of academy players on previous seasons](https://github.com/sherlock-audit/2023-04-footium-judging/issues/277) | |
-| Footium | Medium | Sherlock | [One extra academy player can be minted per season due to mischeck in `mintPlayers`](https://github.com/sherlock-audit/2023-04-footium-judging/issues/273) | |
 | Frankencoin | High | Code4rena | [Position owners can perform a sandwich attack against challengers to steal their collateral](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/572) | |
 | Frankencoin | High | Code4rena | [Lack of validation in opening positions parameters can lead to critical vulnerabilities at protocol level](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/954) | |
 | Frankencoin | High | Code4rena | [Adjusting position prices can lead to unavertable challenges that the protocol will have to pay for](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/566) | Duplicate¹ |
@@ -16,6 +13,9 @@ Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security 
 | Frankencoin | Medium | Code4rena | [`restructureCapTable()` only wipes out the first address on the list](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/989) | |
 | Frankencoin | Medium | Code4rena | [No way to transfer minter role or rennounce to it](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/990) | |
 | Frankencoin | QA | Code4rena | [QA Report](https://github.com/code-423n4/2023-04-frankencoin-findings/blob/main/data/juancito-Q.md) | [📝 Selected for Report](https://code4rena.com/reports/2023-04-frankencoin#low-risk-and-non-critical-issues) |
+| Footium | Medium | Sherlock | [Some ERC20 tokens can get permanently stuck in the contract due to use of `transfer()`](https://github.com/sherlock-audit/2023-04-footium-judging/issues/252) | |
+| Footium | Medium | Sherlock | [Increasing _`maxGenerationId` allows extra minting of academy players on previous seasons](https://github.com/sherlock-audit/2023-04-footium-judging/issues/277) | |
+| Footium | Medium | Sherlock | [One extra academy player can be minted per season due to mischeck in `mintPlayers`](https://github.com/sherlock-audit/2023-04-footium-judging/issues/273) | |
 | Gravita | Low | Hats | [Out of gas in collectFees](https://github.com/Gravita-Protocol/Gravita-SmartContracts/issues/222) | |
 | Teller | High | Sherlock | [Borrowers can steal lenders principal without providing collateral by frontrunning `lenderAcceptBid` and updating the bid](https://github.com/sherlock-audit/2023-03-teller-judging/issues/250) | |
 | Teller | High | Sherlock | [Adversary can modify the commited collateral of any bid at any time leading to lost or locked assets and DOS of the protocol](https://github.com/sherlock-audit/2023-03-teller-judging/issues/280) | |
