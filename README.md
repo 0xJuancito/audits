@@ -6,10 +6,10 @@ Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security 
 
 | Project | Severity | Contest | Finding | Notes |
 | --- | --- | --- | --- | --- |
+| Frankencoin | High | Code4rena | [Fresh positions can be instantly challenged leading to unrestricted minting of ZCHF tokens](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/309) |  |
 | Frankencoin | High | Code4rena | [Position owners can perform a sandwich attack against challengers to steal their collateral](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/572) | |
-| Frankencoin | High | Code4rena | [Lack of validation in opening positions parameters can lead to critical vulnerabilities at protocol level](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/954) | |
 | Frankencoin | High | Code4rena | [Adjusting position prices can lead to unavertable challenges that the protocol will have to pay for](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/566) | Duplicate¹ |
-| Frankencoin | High | Code4rena | [Fresh positions can be instantly challenged leading to unrestricted minting of ZCHF tokens](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/309) | Duplicate¹ |
+| Frankencoin | High | Code4rena | [Lack of validation in opening positions parameters can lead to critical vulnerabilities at protocol level](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/954) | Duplicate¹ |
 | Frankencoin | Medium | Code4rena | [`restructureCapTable()` only wipes out the first address on the list](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/989) | |
 | Frankencoin | Medium | Code4rena | [No way to transfer minter role or rennounce to it](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/990) | |
 | Frankencoin | QA | Code4rena | [QA Report](https://github.com/code-423n4/2023-04-frankencoin-findings/blob/main/data/juancito-Q.md) | [📝 Selected for Report](https://code4rena.com/reports/2023-04-frankencoin#low-risk-and-non-critical-issues) |
