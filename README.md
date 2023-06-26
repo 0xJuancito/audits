@@ -1,4 +1,6 @@
-# Smart Contract Audits and Findings by juancito
+# Smart Contract Audits and Findings by 0xJuancito
+
+Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security consulting and private audits.
 
 ## Audit Competitions
 
