@@ -6,6 +6,8 @@ Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security 
 
 | Project | Severity | Contest | Finding | Notes |
 | --- | --- | --- | --- | --- |
+| Ajna | High | Code4rena | [Position NFT can be spammed with insignificant positions by anyone until rewards DoS](https://github.com/code-423n4/2023-05-ajna-findings/issues/488) | |
+| Ajna | Medium | Code4rena | [Adversary can prevent the creation of any extraordinary funding proposal by frontrunning `proposeExtraordinary()`](https://github.com/code-423n4/2023-05-ajna-findings/issues/260) | |
 | Frankencoin | High | Code4rena | [Fresh positions can be instantly challenged leading to unrestricted minting of ZCHF tokens](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/309) |  |
 | Frankencoin | High | Code4rena | [Position owners can perform a sandwich attack against challengers to steal their collateral](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/572) | |
 | Frankencoin | High | Code4rena | [Adjusting position prices can lead to unavertable challenges that the protocol will have to pay for](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/566) | Duplicate¹ |
@@ -35,8 +37,6 @@ Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security 
 | Rubicon v2 | High | Code4rena | [Report TBA](https://code4rena.com/contests/2023-04-rubicon-v2#top) | |
 | Rubicon v2 | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-04-rubicon-v2#top) | |
 | Rubicon v2 | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-04-rubicon-v2#top) | |
-| Ajna | High | Code4rena | [Report TBA](https://code4rena.com/contests/2023-05-ajna-protocol#top) | |
-| Ajna | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-05-ajna-protocol#top) | |
 | Contest 225 | High | Code4rena | [Report TBA](https://code4rena.com/contests/2023-03-contest-225-contest) | |
 | Contest 225 | High | Code4rena | [Report TBA](https://code4rena.com/contests/2023-03-contest-225-contest) | |
 | Contest 225 | High | Code4rena | [Report TBA](https://code4rena.com/contests/2023-03-contest-225-contest) | |
