@@ -32,7 +32,7 @@ Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security 
 | Wenwin | QA | Code4rena | [QA Report](https://github.com/code-423n4/2023-03-wenwin-findings/blob/main/data/juancito-Q.md) | |
 | Hats | Medium | Sherlock | [Transactions will be frozen if incorrect settings are used during a deployment on HatsSignerGateFactory](https://github.com/sherlock-audit/2023-02-hats-judging/issues/78) | |
 | Biconomy | QA | Code4rena | [QA Report](https://github.com/code-423n4/2023-01-biconomy-findings/blob/main/data/juancito-Q.md) | |
-| Chainlink | | Code4rena | [Judging TBA]([https://code4rena.com/contests/2023-06-stader-labs#top](https://code4rena.com/contests/2023-07-chainlink-cross-chain-contract-administration-multi-signature-contract-timelock-and-call-proxies#top)) | |
+| Chainlink | | Code4rena | [Judging TBA](https://code4rena.com/contests/2023-07-chainlink-cross-chain-contract-administration-multi-signature-contract-timelock-and-call-proxies#top) | |
 | Stader Labs | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-06-stader-labs#top) | |
 | Stader Labs | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-06-stader-labs#top) | |
 | Stader Labs | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-06-stader-labs#top) | |
