@@ -23,7 +23,7 @@ Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security 
 | USSD | High | Sherlock | [The protocol can't rebalance because `USSD::UniV3SwapInput()` will revert as it is missing the `deadline` when creating the `ExactInputParams` for the swap](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/226) | |
 | USSD | High | Sherlock | [`StableOracleWBTC::getPriceUSD()` is using ETH/USD as its price feed](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/121) | |
 | USSD | High | Sherlock | [`getPriceUSD` in `StableOracleDai` is miscalculated with wrong decimals from the `priceFeedDAIETH` Chainlink feed](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/103) | |
-| USSD | High | Sherlock | [`StableOracleDAI` calculates getPriceUSD with inverted base/rate tokens for Chainlink price](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/102) | |
+| USSD | High | Sherlock | [`StableOracleDAI` calculates getPriceUSD with inverted base/rate tokens for Chainlink price](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/102) | [📝 Selected for Report](https://audits.sherlock.xyz/contests/82/report) |
 | USSD | High | Sherlock | [Static oracles in `StableOracleDAI` and `StableOracleWBGL` have wrong addresses](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/95) | |
 | USSD | High | Sherlock | [`ethOracle` is not defined in `StableOracleDAI` making `getPriceUSD` always revert](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/93) | |
 | USSD | High | Sherlock | [Missing access control on `burnRebalancer` allows unrestricted burning of USSD tokens by anyone affecting pool balance on rebalance](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/86) | |
