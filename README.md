@@ -18,6 +18,19 @@ Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security 
 | Frankencoin | Medium | Code4rena | [`restructureCapTable()` only wipes out the first address on the list](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/989) | |
 | Frankencoin | Medium | Code4rena | [No way to transfer minter role or rennounce to it](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/990) | |
 | Frankencoin | QA | Code4rena | [QA Report](https://github.com/code-423n4/2023-04-frankencoin-findings/blob/main/data/juancito-Q.md) | [📝 Selected for Report](https://code4rena.com/reports/2023-04-frankencoin#low-risk-and-non-critical-issues) |
+| USSD | High | Sherlock | [`USSDRebalancer::getOwnValuation()` is easy to manipulate as it doesn't use TWAP for getting the pool price](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/287) | |
+| USSD | High | Sherlock | [`USSD::UniV3SwapInput()` executes swaps with no slippage protection](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/229) | |
+| USSD | High | Sherlock | [The protocol can't rebalance because `USSD::UniV3SwapInput()` will revert as it is missing the `deadline` when creating the `ExactInputParams` for the swap](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/226) | |
+| USSD | High | Sherlock | [`StableOracleWBTC::getPriceUSD()` is using ETH/USD as its price feed](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/121) | |
+| USSD | High | Sherlock | [`getPriceUSD` in `StableOracleDai` is miscalculated with wrong decimals from the `priceFeedDAIETH` Chainlink feed](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/103) | |
+| USSD | High | Sherlock | [`StableOracleDAI` calculates getPriceUSD with inverted base/rate tokens for Chainlink price](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/102) | |
+| USSD | High | Sherlock | [Static oracles in `StableOracleDAI` and `StableOracleWBGL` have wrong addresses](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/95) | |
+| USSD | High | Sherlock | [`ethOracle` is not defined in `StableOracleDAI` making `getPriceUSD` always revert](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/93) | |
+| USSD | High | Sherlock | [Missing access control on `burnRebalancer` allows unrestricted burning of USSD tokens by anyone affecting pool balance on rebalance](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/86) | |
+| USSD | High | Sherlock | [Missing access control on `mintRebalancer` allows unrestricted minting of USSD tokens by anyone affecting pool balance on rebalance](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/85) | |
+| USSD | Medium | Sherlock | [`latestRoundData` from Chainlink might return stale or incorrect results](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/104) | |
+| USSD | Medium | Sherlock | [There is no method for redeeming DAI to prevent negative scenarios described in the whitepaper](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/218) | |
+| USSD | Medium | Sherlock | [Collateral tokens will be stuck on the contract and will be unusable after calling USSD::removeCollateral()](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/261) | |
 | Footium | Medium | Sherlock | [Some ERC20 tokens can get permanently stuck in the contract due to use of `transfer()`](https://github.com/sherlock-audit/2023-04-footium-judging/issues/252) | |
 | Footium | Medium | Sherlock | [Increasing _`maxGenerationId` allows extra minting of academy players on previous seasons](https://github.com/sherlock-audit/2023-04-footium-judging/issues/277) | |
 | Footium | Medium | Sherlock | [One extra academy player can be minted per season due to mischeck in `mintPlayers`](https://github.com/sherlock-audit/2023-04-footium-judging/issues/273) | |
@@ -38,7 +51,6 @@ Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security 
 | Stader Labs | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-06-stader-labs#top) | |
 | Stader Labs | QA | Code4rena | [Report TBA](https://code4rena.com/contests/2023-06-stader-labs#top) | |
 | Stader Labs | Gas | Code4rena | [Report TBA](https://code4rena.com/contests/2023-06-stader-labs#top) | |
-| USSD | | Sherlock | [Judging TBA](https://app.sherlock.xyz/audits/contests/82) | |
 | Rubicon v2 | High | Code4rena | [Report TBA](https://code4rena.com/contests/2023-04-rubicon-v2#top) | |
 | Rubicon v2 | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-04-rubicon-v2#top) | |
 | Rubicon v2 | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-04-rubicon-v2#top) | |
