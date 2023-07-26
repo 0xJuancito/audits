@@ -11,6 +11,11 @@ Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security 
 | EigenLayer | QA | Code4rena | [QA Report](https://github.com/code-423n4/2023-04-eigenlayer-findings/blob/main/data/juancito-Q.md) | |
 | Ajna | High | Code4rena | [Position NFT can be spammed with insignificant positions by anyone until rewards DoS](https://github.com/code-423n4/2023-05-ajna-findings/issues/488) | |
 | Ajna | Medium | Code4rena | [Adversary can prevent the creation of any extraordinary funding proposal by frontrunning `proposeExtraordinary()`](https://github.com/code-423n4/2023-05-ajna-findings/issues/260) | [📝 Selected for Report](https://code4rena.com/reports/2023-05-ajna#m-09-adversary-can-prevent-the-creation-of-any-extraordinary-funding-proposal-by-frontrunning-proposeextraordinary) |
+| Stader Labs | Medium | Code4rena | [`addBid()` does not increment the `endBlock` of the auction when it is close to the end, preventing the protocol from capturing extra value](https://github.com/code-423n4/2023-06-stader-findings/issues/426) | |
+| Stader Labs | Medium | Code4rena |  | [Stale or incorrect results from data feeds can affect assets and shares calculation on deposits and withdrawals](https://github.com/code-423n4/2023-06-stader-findings/issues/312) |
+| Stader Labs | Medium | Code4rena | [Lack of Pause and Unpause Functionality in Auction Contract](https://github.com/code-423n4/2023-06-stader-findings/issues/315) | |
+| Stader Labs | QA | Code4rena | [QA Report](https://github.com/code-423n4/2023-06-stader-findings/issues/327) | |
+| Stader Labs | Gas | Code4rena | [Gas Report](https://github.com/code-423n4/2023-06-stader-findings/blob/main/data/LaScaloneta-G.md) | |
 | Frankencoin | High | Code4rena | [Fresh positions can be instantly challenged leading to unrestricted minting of ZCHF tokens](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/309) |  |
 | Frankencoin | High | Code4rena | [Position owners can perform a sandwich attack against challengers to steal their collateral](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/572) | |
 | Frankencoin | High | Code4rena | [Adjusting position prices can lead to unavertable challenges that the protocol will have to pay for](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/566) | Duplicate¹ |
@@ -46,11 +51,6 @@ Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security 
 | Hats | Medium | Sherlock | [Transactions will be frozen if incorrect settings are used during a deployment on HatsSignerGateFactory](https://github.com/sherlock-audit/2023-02-hats-judging/issues/78) | |
 | Biconomy | QA | Code4rena | [QA Report](https://github.com/code-423n4/2023-01-biconomy-findings/blob/main/data/juancito-Q.md) | |
 | Chainlink | | Code4rena | [Judging TBA](https://code4rena.com/contests/2023-07-chainlink-cross-chain-contract-administration-multi-signature-contract-timelock-and-call-proxies#top) | |
-| Stader Labs | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-06-stader-labs#top) | |
-| Stader Labs | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-06-stader-labs#top) | |
-| Stader Labs | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-06-stader-labs#top) | |
-| Stader Labs | QA | Code4rena | [Report TBA](https://code4rena.com/contests/2023-06-stader-labs#top) | |
-| Stader Labs | Gas | Code4rena | [Report TBA](https://code4rena.com/contests/2023-06-stader-labs#top) | |
 | Rubicon v2 | High | Code4rena | [Report TBA](https://code4rena.com/contests/2023-04-rubicon-v2#top) | |
 | Rubicon v2 | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-04-rubicon-v2#top) | |
 | Rubicon v2 | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-04-rubicon-v2#top) | |
