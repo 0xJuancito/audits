@@ -66,7 +66,7 @@ Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security 
 | Polynomial | High | Code4rena | [Report TBA](https://code4rena.com/contests/2023-03-polynomial-protocol-contest#top) | |
 | Polynomial | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-03-polynomial-protocol-contest#top) | |
 | Polynomial | QA | Code4rena | [Report TBA](https://code4rena.com/contests/2023-03-polynomial-protocol-contest#top) | |
-| Asymmetry | High | Code4rena | [Report TBA](https://code4rena.com/contests/2023-03-asymmetry-contest) | |
-| Asymmetry | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-03-asymmetry-contest) | |
-| Asymmetry | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-03-asymmetry-contest) | |
-| Asymmetry | QA | Code4rena | [Report TBA](https://code4rena.com/contests/2023-03-asymmetry-contest) | |
+| Asymmetry | High | Code4rena | [Adversary can alter derivatives balances in contracts to steal Ether](https://github.com/code-423n4/2023-03-asymmetry-findings/issues/454) | |
+| Asymmetry | Medium | Code4rena | [Precision loss in stake function affects share calculation](https://github.com/code-423n4/2023-03-asymmetry-findings/issues/1044) | |
+| Asymmetry | Medium | Code4rena | [Remaining dust from Ether deposits is not returned to users](https://github.com/code-423n4/2023-03-asymmetry-findings/issues/455) | |
+| Asymmetry | QA | Code4rena | [QA Report](https://github.com/code-423n4/2023-03-asymmetry-findings/blob/main/data/juancito-Q.md) | |
