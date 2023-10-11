@@ -68,6 +68,7 @@ Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security 
 | Lens Protocol | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-07-lens-protocol-v2#top) | |
 | Lens Protocol | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-07-lens-protocol-v2#top) | |
 | Lens Protocol | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-07-lens-protocol-v2#top) | |
+| Lens Protocol | QA | Code4rena | [Report TBA](https://code4rena.com/contests/2023-07-lens-protocol-v2#top) | |
 | Rubicon v2 | High | Code4rena | [Report TBA](https://code4rena.com/contests/2023-04-rubicon-v2#top) | |
 | Rubicon v2 | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-04-rubicon-v2#top) | |
 | Rubicon v2 | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-04-rubicon-v2#top) | |
