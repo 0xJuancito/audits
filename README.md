@@ -63,6 +63,11 @@ Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security 
 | Asymmetry | Medium | Code4rena | [Remaining dust from Ether deposits is not returned to users](https://github.com/code-423n4/2023-03-asymmetry-findings/issues/455) | |
 | Asymmetry | QA | Code4rena | [QA Report](https://github.com/code-423n4/2023-03-asymmetry-findings/blob/main/data/juancito-Q.md) | |
 | Chainlink | | Code4rena | [Judging TBA](https://code4rena.com/contests/2023-07-chainlink-cross-chain-contract-administration-multi-signature-contract-timelock-and-call-proxies#top) | |
+| Lens Protocol | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-07-lens-protocol-v2#top) | |
+| Lens Protocol | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-07-lens-protocol-v2#top) | |
+| Lens Protocol | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-07-lens-protocol-v2#top) | |
+| Lens Protocol | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-07-lens-protocol-v2#top) | |
+| Lens Protocol | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-07-lens-protocol-v2#top) | |
 | Rubicon v2 | High | Code4rena | [Report TBA](https://code4rena.com/contests/2023-04-rubicon-v2#top) | |
 | Rubicon v2 | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-04-rubicon-v2#top) | |
 | Rubicon v2 | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-04-rubicon-v2#top) | |
