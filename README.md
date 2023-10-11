@@ -63,6 +63,7 @@ Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security 
 | Asymmetry | Medium | Code4rena | [Precision loss in stake function affects share calculation](https://github.com/code-423n4/2023-03-asymmetry-findings/issues/1044) | |
 | Asymmetry | Medium | Code4rena | [Remaining dust from Ether deposits is not returned to users](https://github.com/code-423n4/2023-03-asymmetry-findings/issues/455) | |
 | Asymmetry | QA | Code4rena | [QA Report](https://github.com/code-423n4/2023-03-asymmetry-findings/blob/main/data/juancito-Q.md) | |
+| Arcade | QA | Code4rena | [Report TBA](https://code4rena.com/contests/2023-07-arcadexyz#top) | 📝 Selected for Report |
 | Lens Protocol | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-07-lens-protocol-v2#top) | |
 | Lens Protocol | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-07-lens-protocol-v2#top) | |
 | Lens Protocol | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-07-lens-protocol-v2#top) | |
