@@ -6,6 +6,12 @@ Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security 
 
 | Project | Severity | Contest | Finding | Notes |
 | --- | --- | --- | --- | --- |
+| Lens Protocol | Medium | Code4rena | [Lens Handles from v1 can be minted by other users on v2 before they are migrated to their corresponding owner](https://github.com/code-423n4/2023-07-lens-findings/issues/105) | |
+| Lens Protocol | Medium | Code4rena | [Users can make any user follow them via FollowNFT::tryMigrate() without their consent](https://github.com/code-423n4/2023-07-lens-findings/issues/104) | [📝 Selected for Report](https://code4rena.com/reports/2023-07-lens#m-10-users-can-make-any-user-follow-them-via-follownfttrymigrate-without-their-consent) |
+| Lens Protocol | Medium | Code4rena | [Users can self-follow via FollowNFT::tryMigrate() on Lens V2](https://github.com/code-423n4/2023-07-lens-findings/issues/106) | [📝 Selected for Report](https://code4rena.com/reports/2023-07-lens#m-09-users-can-self-follow-via-follownfttrymigrate-on-lens-v2) |
+| Lens Protocol | Medium | Code4rena | [Implementation error of EIP-712 due to wrong Typehash can lead to tx reverts](https://github.com/code-423n4/2023-07-lens-findings/issues/107) | |
+| Lens Protocol | Medium | Code4rena | [Missing pause modifier on important LensV2Migration and FollowNFT functions](https://github.com/code-423n4/2023-07-lens-findings/issues/108) | |
+| Lens Protocol | QA | Code4rena | [QA Report](https://github.com/code-423n4/2023-07-lens-findings/blob/main/data/juancito-Q.md) | |
 | EigenLayer | High | Code4rena | [It is impossible to slash queued withdrawals that contain a malicious strategy due to a misplacement of the ++i increment](https://github.com/code-423n4/2023-04-eigenlayer-findings/issues/205) | [📝 Selected for Report](https://code4rena.com/reports/2023-04-eigenlayer#h-02-it-is-impossible-to-slash-queued-withdrawals-that-contain-a-malicious-strategy-due-to-a-misplacement-of-the-i-increment) |
 | EigenLayer | Medium | Code4rena | [Conflicting strategy can lead to reverting the whole withdrawal and temporary freeze user assets from other strategies](https://github.com/code-423n4/2023-04-eigenlayer-findings/issues/218) | |
 | EigenLayer | QA | Code4rena | [QA Report](https://github.com/code-423n4/2023-04-eigenlayer-findings/blob/main/data/juancito-Q.md) | |
@@ -81,12 +87,6 @@ Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security 
 | Chainlink Staking | Medium | Code4rena | Report TBA | |
 | Chainlink Staking | Medium | Code4rena | Report TBA | |
 | Chainlink Staking | QA | Code4rena | Report TBA | |
-| Lens Protocol | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-07-lens-protocol-v2#top) | |
-| Lens Protocol | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-07-lens-protocol-v2#top) | |
-| Lens Protocol | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-07-lens-protocol-v2#top) | |
-| Lens Protocol | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-07-lens-protocol-v2#top) | |
-| Lens Protocol | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-07-lens-protocol-v2#top) | |
-| Lens Protocol | QA | Code4rena | [Report TBA](https://code4rena.com/contests/2023-07-lens-protocol-v2#top) | |
 | Rubicon v2 | High | Code4rena | [Report TBA](https://code4rena.com/contests/2023-04-rubicon-v2#top) | |
 | Rubicon v2 | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-04-rubicon-v2#top) | |
 | Rubicon v2 | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-04-rubicon-v2#top) | |
