@@ -21,6 +21,10 @@ Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security 
 | Stader Labs | Medium | Code4rena | [Lack of Pause and Unpause Functionality in Auction Contract](https://github.com/code-423n4/2023-06-stader-findings/issues/315) | |
 | Stader Labs | QA | Code4rena | [QA Report](https://github.com/code-423n4/2023-06-stader-findings/issues/327) | |
 | Stader Labs | Gas | Code4rena | [Gas Report](https://github.com/code-423n4/2023-06-stader-findings/blob/main/data/LaScaloneta-G.md) | |
+| Dopex | High | Code4rena | [All options settlements can be blocked with a permanent DOS of the settle() function](https://github.com/code-423n4/2023-08-dopex-findings/issues/1019) | |
+| Dopex | Medium | Code4rena | [Missing slippage parameter on Uniswap addLiquidity() function](https://github.com/code-423n4/2023-08-dopex-findings/issues/1032) | [📝 Selected for Report](https://code4rena.com/reports/2023-08-dopex#m-06-missing-slippage-parameter-on-uniswap-addliquidity-function) |
+| Dopex | Medium | Code4rena | [The owner of RPDX Decaying Bonds is not updated on token transfers](https://github.com/code-423n4/2023-08-dopex-findings/issues/1030) | [📝 Selected for Report](https://code4rena.com/reports/2023-08-dopex#m-07-the-owner-of-rpdx-decaying-bonds-is-not-updated-on-token-transfers) |
+| Dopex | QA | Code4rena | [QA Report](https://github.com/code-423n4/2023-08-dopex-findings/blob/main/data/juancito-Q.md) | [📝 Selected for Report](https://code4rena.com/reports/2023-08-dopex#low-risk-and-non-critical-issues) |
 | Frankencoin | High | Code4rena | [Fresh positions can be instantly challenged leading to unrestricted minting of ZCHF tokens](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/309) |  |
 | Frankencoin | High | Code4rena | [Position owners can perform a sandwich attack against challengers to steal their collateral](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/572) | |
 | Frankencoin | High | Code4rena | [Adjusting position prices can lead to unavertable challenges that the protocol will have to pay for](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/566) | |
@@ -77,10 +81,6 @@ Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security 
 | Chainlink Staking | Medium | Code4rena | Report TBA | |
 | Chainlink Staking | Medium | Code4rena | Report TBA | |
 | Chainlink Staking | QA | Code4rena | Report TBA | |
-| Dopex | High | Code4rena | Report TBA | |
-| Dopex | Medium | Code4rena | Report TBA | |
-| Dopex | Medium | Code4rena | Report TBA | |
-| Dopex | QA | Code4rena | Report TBA | |
 | Lens Protocol | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-07-lens-protocol-v2#top) | |
 | Lens Protocol | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-07-lens-protocol-v2#top) | |
 | Lens Protocol | Medium | Code4rena | [Report TBA](https://code4rena.com/contests/2023-07-lens-protocol-v2#top) | |
