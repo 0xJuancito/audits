@@ -4,7 +4,7 @@ Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security 
 
 ## Audit Competitions
 
-🏆 Selected for Report
+🏆 *Selected for Report*
 
 | Project | Severity | Finding | Notes |
 | :---: | :---: | --- | :---: |
