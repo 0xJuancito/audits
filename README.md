@@ -18,7 +18,7 @@ Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security 
 | Lens Protocol | Medium | [Missing pause modifier on important LensV2Migration and FollowNFT functions](https://github.com/code-423n4/2023-07-lens-findings/issues/108) | |
 | Lens Protocol | QA | [QA Report](https://github.com/code-423n4/2023-07-lens-findings/blob/main/data/juancito-Q.md) | |
 | Chainlink | Report | [Ranking](https://code4rena.com/contests/2023-07-chainlink-cross-chain-contract-administration-multi-signature-contract-timelock-and-call-proxies#top) | 🥈 |
-| Ajna | High | [Anyone can call memorializePositions() on behalf of other user's position due to lack of access control]([https://github.com/code-423n4/2023-05-ajna-findings/issues/488](https://github.com/code-423n4/2023-05-ajna-findings/issues/259)) | |
+| Ajna | High | [Anyone can call memorializePositions() on behalf of other user's position due to lack of access control](https://github.com/code-423n4/2023-05-ajna-findings/issues/259) | |
 | Ajna | Medium | [Adversary can prevent the creation of any extraordinary funding proposal by frontrunning `proposeExtraordinary()`](https://github.com/code-423n4/2023-05-ajna-findings/issues/260) | [🏆](https://code4rena.com/reports/2023-05-ajna#m-09-adversary-can-prevent-the-creation-of-any-extraordinary-funding-proposal-by-frontrunning-proposeextraordinary) |
 | Lybra | High | [Missmatch in supportVotes[] order in LybraGovernance](https://github.com/code-423n4/2023-06-lybra-findings/issues/744) | |
 | Lybra | Medium | [Incorrect use of `token.decimals()` leads to error in rewards calculation and distribution](https://github.com/code-423n4/2023-06-lybra-findings/issues/553) | |
