@@ -4,7 +4,7 @@ Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security 
 
 ## Audit Competitions
 
-> **78 High/Medium** bugs found in public competitions 🔐
+> **78 High/Medium** severity bugs found in public competitions 🔐
 
 🏆 *Selected for Report*
 
