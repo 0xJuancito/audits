@@ -6,7 +6,7 @@ Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security 
 
 > **78 High/Medium** severity bugs found in public competitions 🔐
 
-🏆 *Selected for Report*
+Notes: 🏆 *Selected for Report*
 
 | Project | Severity | Finding | Notes |
 | :---: | :---: | --- | :---: |
