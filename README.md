@@ -86,6 +86,15 @@ Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security 
 | Asymmetry | Medium | [Remaining dust from Ether deposits is not returned to users](https://github.com/code-423n4/2023-03-asymmetry-findings/issues/455) | |
 | Asymmetry | QA | [QA Report](https://github.com/code-423n4/2023-03-asymmetry-findings/blob/main/data/juancito-Q.md) | |
 | Arcade | QA | [Report TBA](https://code4rena.com/contests/2023-07-arcadexyz#top) | 🏆 |
+| reNFT | High | Report TBA | |
+| reNFT | High | Report TBA | |
+| reNFT | High | Report TBA | |
+| reNFT | Medium | Report TBA | |
+| reNFT | Medium | Report TBA | |
+| reNFT | Medium | Report TBA | |
+| reNFT | Medium | Report TBA | |
+| reNFT | Medium | Report TBA | |
+| reNFT | QA | Report TBA | |
 | zkSync Era | Medium | Report TBA | |
 | zkSync Era | Medium | Report TBA | |
 | zkSync Era | QA | Report TBA | |
