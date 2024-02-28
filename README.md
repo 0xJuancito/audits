@@ -4,7 +4,7 @@ Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security 
 
 ## Audit Competitions
 
-#### 🔐 94 High/Medium severity bugs found in public competitions
+#### 🔐 102 High/Medium severity bugs found in public competitions
 
 ###### Notes: 🏆 *Selected for Report*
 
@@ -113,6 +113,15 @@ Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security 
 | NextGen | Medium | Report TBA | |
 | NextGen | Medium | Report TBA | |
 | NextGen | QA | Report TBA | |
+| Salty | High | Report TBA | |
+| Salty | High | Report TBA | |
+| Salty | Medium | Report TBA | |
+| Salty | Medium | Report TBA | |
+| Salty | Medium | Report TBA | |
+| Salty | Medium | Report TBA | |
+| Salty | Medium | Report TBA | |
+| Salty | Medium | Report TBA | |
+| Salty | QA | Report TBA | 🏆 |
 | Contest 225 | High | [Report TBA](https://code4rena.com/contests/2023-03-contest-225-contest) | |
 | Contest 225 | High | [Report TBA](https://code4rena.com/contests/2023-03-contest-225-contest) | |
 | Contest 225 | High | [Report TBA](https://code4rena.com/contests/2023-03-contest-225-contest) | |
