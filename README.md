@@ -66,15 +66,16 @@ Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security 
 | Althea | Medium | [`setDistributableERC20s()` should check there is no ongoing distribution to prevent bricking the contract](https://github.com/code-423n4/2024-02-althea-liquid-infrastructure-findings/issues/110) | |
 | Althe | Medium | [ERC20 tokens should be distributed before removing them from `LiquidInfrastructureERC20`](https://github.com/code-423n4/2024-02-althea-liquid-infrastructure-findings/issues/111) | |
 | Althea | Medium | [Withdrawals can be bricked if releasing more than one NFT during ongoing withdrawal](https://github.com/code-423n4/2024-02-althea-liquid-infrastructure-findings/issues/114) | |
-| Salty | High | Report TBA | |
-| Salty | High | Report TBA | |
-| Salty | Medium | Report TBA | |
-| Salty | Medium | Report TBA | |
-| Salty | Medium | Report TBA | |
-| Salty | Medium | Report TBA | |
-| Salty | Medium | Report TBA | |
-| Salty | Medium | Report TBA | |
-| Salty | QA | Report TBA | 🏆 |
+| Salty | High | [Users can avoid liquidations by abusing the cooldown mechanism](https://github.com/code-423n4/2024-01-salty-findings/issues/617) | |
+| Salty | High | [USDS is sent to the wrong contract when repaying borrowed USDS](https://github.com/code-423n4/2024-01-salty-findings/issues/618) | |
+| Salty | Medium | [Adversary can prevent updating price feed addresses by creating poisonous proposals ending in _confirm](https://github.com/code-423n4/2024-01-salty-findings/issues/620) | 🏆 |
+| Salty | Medium | [DOS of proposals by abusing ballot names without important parameters](https://github.com/code-423n4/2024-01-salty-findings/issues/621) | 🏆 |
+| Salty | Medium | [Proposals that didn't reach quorum should be able to be finalized without changes when the voting phase ends](https://github.com/code-423n4/2024-01-salty-findings/issues/625) | |
+| Salty | Medium | [Wallet proposals aren't reset when they are rejected](https://github.com/code-423n4/2024-01-salty-findings/issues/627) | |
+| Salty | Medium | [Chainlink price feed uses BTC/USD feed instead of one with WBTC](https://github.com/code-423n4/2024-01-salty-findings/issues/632) | |
+| Salty | Medium | [Pools reserves can be manipulated because of failed check of remaining reserves on removeLiquidity()](https://github.com/code-423n4/2024-01-salty-findings/issues/647) | |
+| Salty | Medium | [proposeWallets enters in a deadlock if the proposed wallet doesn’t call changeWallets()](https://github.com/code-423n4/2024-01-salty-findings/issues/1059) | |
+| Salty | QA | [QA Report](https://github.com/code-423n4/2024-01-salty-findings/blob/main/data/juancito-Q.md) | 🏆 |
 | USSD | High | [`USSDRebalancer::getOwnValuation()` is easy to manipulate as it doesn't use TWAP for getting the pool price](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/287) | |
 | USSD | High | [`USSD::UniV3SwapInput()` executes swaps with no slippage protection](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/229) | |
 | USSD | High | [The protocol can't rebalance because `USSD::UniV3SwapInput()` will revert as it is missing the `deadline` when creating the `ExactInputParams` for the swap](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/226) | |
