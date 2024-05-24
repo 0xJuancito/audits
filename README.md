@@ -63,9 +63,9 @@ Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security 
 | AI Arena | Medium | [Rerolling allows users to outwin the pseudo-randomness of fighters DNA to mint NFTs with the best stats](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/1638) | |
 | AI Arena | Medium | [Roles can't be revoked](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/2080) | |
 | AI Arena | QA | [QA Report](https://github.com/code-423n4/2024-02-ai-arena-findings/blob/main/data/juancito-Q.md) | |
-| Althea | Medium | Report TBA | |
-| Althe | Medium | Report TBA | |
-| Althea | Medium | Report TBA | |
+| Althea | Medium | [`setDistributableERC20s()` should check there is no ongoing distribution to prevent bricking the contract](https://github.com/code-423n4/2024-02-althea-liquid-infrastructure-findings/issues/110) | |
+| Althe | Medium | [ERC20 tokens should be distributed before removing them from `LiquidInfrastructureERC20`](https://github.com/code-423n4/2024-02-althea-liquid-infrastructure-findings/issues/111) | |
+| Althea | Medium | [Withdrawals can be bricked if releasing more than one NFT during ongoing withdrawal](https://github.com/code-423n4/2024-02-althea-liquid-infrastructure-findings/issues/114) | |
 | Salty | High | Report TBA | |
 | Salty | High | Report TBA | |
 | Salty | Medium | Report TBA | |
