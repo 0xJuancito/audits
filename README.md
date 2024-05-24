@@ -49,8 +49,32 @@ Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security 
 | NextGen | Medium | [The owner of the auctioned token does not receive the funds after an auction ends](https://github.com/code-423n4/2023-10-nextgen-findings/issues/738) | |
 | NextGen | Medium | [Artist signatures can be forged to impersonate the artist behind a collection](https://github.com/code-423n4/2023-10-nextgen-findings/issues/741) | [🏆](https://code4rena.com/reports/2023-10-nextgen#m-06-artist-signatures-can-be-forged-to-impersonate-the-artist-behind-a-collection) |
 | NextGen | Medium | [Auction winner can prevent payments via safeTransferFrom callback](https://github.com/code-423n4/2023-10-nextgen-findings/issues/739) | [🏆](https://code4rena.com/reports/2023-10-nextgen#m-07-auction-winner-can-prevent-payments-via-safetransferfrom-callback) |
-| NextGen | Qa | [QA Report](https://github.com/code-423n4/2023-10-nextgen-findings/issues/747) | [🏆](https://code4rena.com/reports/2023-10-nextgen#low-risk-and-non-critical-issues) |
+| NextGen | QA | [QA Report](https://github.com/code-423n4/2023-10-nextgen-findings/issues/747) | [🏆](https://code4rena.com/reports/2023-10-nextgen#low-risk-and-non-critical-issues) |
 | ReNFT Mitigation | High | [All orders can be hijacked to lock rental assets forever by tipping a huge amount of small ERC20 tips](https://github.com/code-423n4/2024-02-renft-mitigation-findings/issues/25) | |
+| AI Arena | High | [Non-transferable Game Items can be transferred using `safeBatchTransferFrom()`](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/1621) | |
+| AI Arena | High | [FighterFarm security checks for transfers can be avoided by using the version of `safeTransferFrom()` with `data`](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/1622) | |
+| AI Arena | High | [Incrementing a fighter type generation will brick the element attribute selection forever because of a missing function to update `numElements`](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/1628) | |
+| AI Arena | High | [Users with minting passes can mint fighters that are both Dendroids and Icons](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/1635) | |
+| AI Arena | High | [Fighters can be rerolled with a different fighterType than their own](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/1637) | |
+| AI Arena | High | [Users redeeming a mint pass can mint Icon fighters with any iconsType, including inexisting ones](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/2045) | |
+| AI Arena | High | [Precision error in curStakeAtRisk](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/2079) | |
+| AI Arena | Medium | [The rarity of the last physical attribute in the probability array is undermined](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/1627) | |
+| AI Arena | Medium | [Fighters can be minted with out of range `weight`, and `element` attributes via `MergingPool::claimRewards()`](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/1632) | |
+| AI Arena | Medium | [Rerolling allows users to outwin the pseudo-randomness of fighters DNA to mint NFTs with the best stats](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/1638) | |
+| AI Arena | Medium | [Roles can't be revoked](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/2080) | |
+| AI Arena | QA | [QA Report](https://github.com/code-423n4/2024-02-ai-arena-findings/blob/main/data/juancito-Q.md) | |
+| Althea | Medium | Report TBA | |
+| Althe | Medium | Report TBA | |
+| Althea | Medium | Report TBA | |
+| Salty | High | Report TBA | |
+| Salty | High | Report TBA | |
+| Salty | Medium | Report TBA | |
+| Salty | Medium | Report TBA | |
+| Salty | Medium | Report TBA | |
+| Salty | Medium | Report TBA | |
+| Salty | Medium | Report TBA | |
+| Salty | Medium | Report TBA | |
+| Salty | QA | Report TBA | 🏆 |
 | USSD | High | [`USSDRebalancer::getOwnValuation()` is easy to manipulate as it doesn't use TWAP for getting the pool price](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/287) | |
 | USSD | High | [`USSD::UniV3SwapInput()` executes swaps with no slippage protection](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/229) | |
 | USSD | High | [The protocol can't rebalance because `USSD::UniV3SwapInput()` will revert as it is missing the `deadline` when creating the `ExactInputParams` for the swap](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/226) | |
@@ -107,22 +131,6 @@ Reach out on Twitter [@0xJuancito](https://twitter.com/0xJuancito) for security 
 | Rubicon v2 | High | [Report TBA](https://code4rena.com/contests/2023-04-rubicon-v2#top) | |
 | Rubicon v2 | Medium | [Report TBA](https://code4rena.com/contests/2023-04-rubicon-v2#top) | |
 | Rubicon v2 | Medium | [Report TBA](https://code4rena.com/contests/2023-04-rubicon-v2#top) | |
-| NextGen | High | Report TBA | |
-| NextGen | High | Report TBA | |
-| NextGen | High | Report TBA | |
-| NextGen | Medium | Report TBA | |
-| NextGen | Medium | Report TBA | |
-| NextGen | Medium | Report TBA | |
-| NextGen | QA | Report TBA | |
-| Salty | High | Report TBA | |
-| Salty | High | Report TBA | |
-| Salty | Medium | Report TBA | |
-| Salty | Medium | Report TBA | |
-| Salty | Medium | Report TBA | |
-| Salty | Medium | Report TBA | |
-| Salty | Medium | Report TBA | |
-| Salty | Medium | Report TBA | |
-| Salty | QA | Report TBA | 🏆 |
 | Contest 225 | High | [Report TBA](https://code4rena.com/contests/2023-03-contest-225-contest) | |
 | Contest 225 | High | [Report TBA](https://code4rena.com/contests/2023-03-contest-225-contest) | |
 | Contest 225 | High | [Report TBA](https://code4rena.com/contests/2023-03-contest-225-contest) | |
